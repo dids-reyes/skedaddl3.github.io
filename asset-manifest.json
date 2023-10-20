@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.baf4145a.css",
-    "main.js": "/static/js/main.9e366390.js",
+    "main.js": "/static/js/main.b8ecaeab.js",
     "static/css/141.a86f3496.chunk.css": "/static/css/141.a86f3496.chunk.css",
     "static/js/141.092d57f2.chunk.js": "/static/js/141.092d57f2.chunk.js",
     "static/css/769.9a5d156d.chunk.css": "/static/css/769.9a5d156d.chunk.css",
@@ -16,12 +16,13 @@
     "static/media/municipality_r1.png": "/static/media/municipality_r1.64bfe45b28f95bf1b81b.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/rsz_1culion.png": "/static/media/rsz_1culion.fb958f977975c12d0403.png",
     "static/media/pragtechnologies.png": "/static/media/pragtechnologies.c4a02e915dacb7eb95b5.png",
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.baf4145a.css.map": "/static/css/main.baf4145a.css.map",
-    "main.9e366390.js.map": "/static/js/main.9e366390.js.map",
+    "main.b8ecaeab.js.map": "/static/js/main.b8ecaeab.js.map",
     "141.a86f3496.chunk.css.map": "/static/css/141.a86f3496.chunk.css.map",
     "141.092d57f2.chunk.js.map": "/static/js/141.092d57f2.chunk.js.map",
     "769.9a5d156d.chunk.css.map": "/static/css/769.9a5d156d.chunk.css.map",
@@ -29,6 +30,6 @@
   },
   "entrypoints": [
     "static/css/main.baf4145a.css",
-    "static/js/main.9e366390.js"
+    "static/js/main.b8ecaeab.js"
   ]
 }
